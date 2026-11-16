@@ -4,6 +4,11 @@
   "updated": "2026-11-16",
   "destaques": [
     {
+      "nome": "Felipe O.",
+      "texto": "A maior dúvida é saber o que é melhor: o antendimento ou a qualidade dos produtos. Sendo muito bem atendido há quase 20 anos e sabendo que continuarei sendo por mais 20!",
+      "data": "2026-11-15"
+    },
+    {
       "nome": "Luís O.",
       "texto": "Experiência ótima, atendimento excelente! Toda equipe extremante atenciosa! Helena e Guilherme nos atenderam e foram impecáveis! Super indico!",
       "data": "2026-11-15"
@@ -57,11 +62,6 @@
       "nome": "Rafael L.",
       "texto": "Atendimento de primeira, atenciosos, muita agilidade na hora da compra. Moro em Salvador e o pedido chegou certinho, com todo cuidado. Certamente compraria novamente!",
       "data": "2026-09-06"
-    },
-    {
-      "nome": "Eliana C.",
-      "texto": "Atendimento excelente, produtos de qualidade e boas condições de pagamento. Recomendo …",
-      "data": "2026-08-28"
     }
   ]
 }
