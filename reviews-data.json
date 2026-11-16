@@ -1,5 +1,67 @@
 {
   "rating": 5,
   "count": 485,
-  "updated": "2026-11-15"
+  "updated": "2026-11-16",
+  "destaques": [
+    {
+      "nome": "Luís O.",
+      "texto": "Experiência ótima, atendimento excelente! Toda equipe extremante atenciosa! Helena e Guilherme nos atenderam e foram impecáveis! Super indico!",
+      "data": "2026-11-15"
+    },
+    {
+      "nome": "Denise P.",
+      "texto": "Sempre fomos bem atendidos, bem recepcionados, sempre resolveram algum problema, e os produtos são de ótima qualidade. O que eu mais gosto: não fazem distinção das pessoas, isso é perfeito.",
+      "data": "2026-11-15"
+    },
+    {
+      "nome": "Luciano M.",
+      "texto": "Sempre muito bem atendido. Tanto na venda como no pós venda. Recomendamos.",
+      "data": "2026-11-14"
+    },
+    {
+      "nome": "Vera F.",
+      "texto": "Sempre foi maravilhosa!! Do atendimento a qualidade dos produtos. É a minha ótica de anos. Confio e recomendo!",
+      "data": "2026-11-12"
+    },
+    {
+      "nome": "Zimmer",
+      "texto": "Atendimento excelente, o ambiente passa uma segurança de você saber que está comprando algo de qualidade, o vendedor Murilo fez um ótimo atendimento me dando opções e até mesmo dicas, nota 10",
+      "data": "2026-11-10"
+    },
+    {
+      "nome": "Leila B.",
+      "texto": "Comprei lentes para óculos de grau e de sol. Quem me atendeu foi a Cláudia, conhecida de anos 😊",
+      "data": "2026-10-22"
+    },
+    {
+      "nome": "Cássia G.",
+      "texto": "Excelente atendimento com produtos de ótima qualidade. Foi uma boa experiência ao adquirir produtos na loja.",
+      "data": "2026-10-17"
+    },
+    {
+      "nome": "Thiago L.",
+      "texto": "Desde a primeira compra que fiz, o atendimento foi excepcional, com muito zelo, simpatia e muito carisma por parte do vendedor Murilo. Um excelente vendedor e um grande amigo de longa data. Um excelente trabalho da equipe Ronnau! Continuem assim q irei fazer mais compras em sua loja!",
+      "data": "2026-10-09"
+    },
+    {
+      "nome": "Geeral",
+      "texto": "Excelentes produtos e atendimento personalizado e atencioso. Muito Obrigado !",
+      "data": "2026-10-08"
+    },
+    {
+      "nome": "Paula M.",
+      "texto": "É sempre uma satisfação comprar na Rönnau! Atendimento nota 1000, produtos diferenciados de alto padrão e muito bom gosto! Obrigada a toda a equipe pela atenção e carinho de sempre!",
+      "data": "2026-09-24"
+    },
+    {
+      "nome": "Rafael L.",
+      "texto": "Atendimento de primeira, atenciosos, muita agilidade na hora da compra. Moro em Salvador e o pedido chegou certinho, com todo cuidado. Certamente compraria novamente!",
+      "data": "2026-09-06"
+    },
+    {
+      "nome": "Eliana C.",
+      "texto": "Atendimento excelente, produtos de qualidade e boas condições de pagamento. Recomendo …",
+      "data": "2026-08-28"
+    }
+  ]
 }
