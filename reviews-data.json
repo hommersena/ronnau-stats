@@ -1,8 +1,13 @@
 {
   "rating": 5,
-  "count": 488,
-  "updated": "2026-11-18",
+  "count": 490,
+  "updated": "2026-11-19",
   "destaques": [
+    {
+      "nome": "Luiz M.",
+      "texto": "Tive um ótimo atendimento e grande auxilio na escolha do meu óculos! Só tenho a recomendar!",
+      "data": "2026-11-18"
+    },
     {
       "nome": "Graciele G.",
       "texto": "Atendimento muito bom, produtos de qualidade, sempre será a minha primeira opção de compra, tanto para joias como óculos! Recomendo!",
@@ -57,11 +62,6 @@
       "nome": "Thiago L.",
       "texto": "Desde a primeira compra que fiz, o atendimento foi excepcional, com muito zelo, simpatia e muito carisma por parte do vendedor Murilo. Um excelente vendedor e um grande amigo de longa data. Um excelente trabalho da equipe Ronnau! Continuem assim q irei fazer mais compras em sua loja!",
       "data": "2026-10-09"
-    },
-    {
-      "nome": "Geeral",
-      "texto": "Excelentes produtos e atendimento personalizado e atencioso. Muito Obrigado !",
-      "data": "2026-10-08"
     }
   ]
 }
